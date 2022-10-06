@@ -14,16 +14,16 @@ pipeline{
          }
         }
       
-                    stage('deploy to nginx') (
-                        steps(
-                            sh"echo deploy to nginx"
+                   
+                     
+                            
                       
   }
   
   }
   
-  }
+  
       
-    }
+    
   
 
